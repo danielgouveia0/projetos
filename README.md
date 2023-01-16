@@ -9,7 +9,7 @@
 ## Projetos:
 Veja os meus projetos de Data Science:
 
-* **Análise dos Dados do Airbnb - Dublin, Irlanda:** https://github.com/danielgouveia0/projetos/blob/main/PROJETO.ipynb
+* **Análise dos Dados do Airbnb - Nova York, Estados Unidos:** https://github.com/danielgouveia0/projetos/blob/main/newyork.ipynb
 
 
 ---
